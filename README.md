@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arpita Sarkar 👋</h1>
-<h3 align="center">Master’s Student | Cybersecurity & Networking Enthusiast | Research Assistant</h3>
+<h3 align="center">Master’s Student | Cybersecurity & Networking Enthusiast </h3>
 
 ---
 
@@ -78,43 +78,10 @@
 
 ---
 
-## 📚 Certifications  
-- 🏅 Machine Learning 1: Data Profiling  
-- 🏅 Foundations of Cybersecurity  
-- 🏅 Windows Server 2025  
-- 🏅 IT Help Desk Fundamentals  
-- 🏅 Cybersecurity & Secure Software Development Courses  
 
 ---
 
-## 🧪 Projects  
 
-### 🔹 **Linux Network Monitor using Python**
-📆 *Oct 2022 – Jan 2023*  
-- Built a Linux-based network monitoring tool  
-- Collected packet loss, interface stats, connection details  
-- Generated alarm logs using **psutil**, **subprocess**  
-
----
-
-### 🔹 **Property-Based Testing of Python Software**
-📆 *Oct 2024 – Feb 2025*  
-- Conducted systematic security testing using **Pytest** & **Hypothesis**  
-- Discovered edge-case failures to support vulnerability analysis  
-
----
-
-### 🔹 **Data Visualization Dashboard (Power BI)**
-📆 *Mar 2025 – Jul 2025*  
-- Built interactive dashboards to visualize sales & performance metrics  
-- Integrated multiple datasets  
-- Designed insights for management decision-making  
-
----
-
-## 🏆 Achievements  
-✨ 96% score in **Deutsch Test für Zuwanderer**  
-✨ Best Poster Presentation during Master’s coursework  
 
 ---
 
