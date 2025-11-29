@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 
-**arpitajerry/arpitajerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h2 align="left">Hi 👋! My name is  Arpita and I'm a student, from Technical University of Hamburg</h2>
 
